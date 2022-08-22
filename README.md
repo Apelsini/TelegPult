@@ -1,4 +1,4 @@
-# TelegPult
+# Desktop Bot (working name TelegPult)
 Monitor and shutdown your PC from Telegram Bot
 
 Usage on PC
